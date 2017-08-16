@@ -1,0 +1,25 @@
+body {
+	font-family: arial, verdana, sans-serif;
+	font-size: 12px;
+}
+.circliful {
+	position: relative;
+}
+.circle-text, .circle-info, .circle-text-half, .circle-info-half {
+	padding-top:10px;
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	display: inline-block;
+	color: black;
+	margin-bottom: 4px;
+}
+ 
+.circle-info, .circle-info-half {
+	color: white;
+}
+.circliful .fa {
+	margin: -10px 3px 0 3px;
+	position: relative;
+	bottom: 4px;
+}
