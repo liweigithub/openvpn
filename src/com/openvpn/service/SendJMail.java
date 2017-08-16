@@ -13,8 +13,8 @@ public class SendJMail {
     public static boolean sendMail(String email, String emailMsg) {
         String from = "18208308039@163.com";                // 邮件发�?人的邮件地址
         String to = email;                                        // 邮件接收人的邮件地址
-        final String username = "18208308039@163.com";    //发件人的邮件帐户
-        final String password = "199528";                    //发件人的邮件密码
+        final String username = "";    //发件人的邮件帐户
+        final String password = "";                    //发件人的邮件密码
 
 
 
