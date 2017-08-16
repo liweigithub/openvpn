@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/WEB-INF/back/animated-login-form,WebRoot/WEB-INF/back/js,WebRoot/WEB-INF/admin,WebRoot/js,WebRoot/back/js
+validator.Unchecked=
